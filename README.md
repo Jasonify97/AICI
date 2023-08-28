@@ -47,6 +47,22 @@ PW : a123456~
 <div class="badge-container">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></div></br></br></br>
 
+# <img src="https://github.com/Jasonify97/AICI/assets/98500133/88037072-2eee-4fcc-8824-ca2c299d7baf"  width="30" height="30"/>팀원소개
+### Front-End
+|이준용|한세린|
+|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/u/98500133?v=4"  width="30" height="30"/>|오른쪽정렬|
+|[@Jasonify97](https://avatars.githubusercontent.com/u/98500133?v=4)||
+
+
+### Back-End
+
+
+### AI
+
+
+
+
 # <img src="https://github.com/Jasonify97/AICI/assets/98500133/bcd48281-26a3-448b-b6d7-01867f36b64a"  width="30" height="30"/>프로젝트 상세내용
 
 
