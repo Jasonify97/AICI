@@ -51,9 +51,9 @@ PW : a123456~
 ### Front-End
 |이준용|한세린|
 |:---:|:---:|
-|[![ruby](https://avatars.githubusercontent.com/u/98500133?v=4)](https://github.com/Jasonify97)|[![jhsy](https://avatars.githubusercontent.com/u/62207913?v=4)](https://github.com/jhsy0429)|
+|<img src="https://github.com/Jasonify97/AICI/assets/98500133/88037072-2eee-4fcc-8824-ca2c299d7baf"  width="30" height="30"/>|<img src="https://github.com/Jasonify97/AICI/assets/98500133/88037072-2eee-4fcc-8824-ca2c299d7baf"  width="30" height="30"/>|
 |[@Jasonify97](https://github.com/Jasonify97)|[@jhsy0429](https://github.com/jhsy0429)|
-s
+
 ### Back-End
 
 
