@@ -70,7 +70,11 @@ PW : a123456~
 
 # <img src="https://github.com/Jasonify97/AICI/assets/98500133/bcd48281-26a3-448b-b6d7-01867f36b64a"  width="30" height="30"/>프로젝트 상세내용
 
+## 과제 배경
 
+### 요구 사항
+
+ㄴㅁㅇ
 
 
 
