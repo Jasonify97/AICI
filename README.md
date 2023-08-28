@@ -25,20 +25,29 @@ AICI 시스템으로 장애 영향 고객에게 동시다발 고객 TM을 시행
 * 개인정보처리방침/이용약관 페이지</br></br></br>
 
 # <img src="https://github.com/Jasonify97/AICI/assets/98500133/d385f4a0-736b-4a27-98fd-737adf470707"  width="30" height="30"/>배포주소
-http://52.63.184.150</br>
+[AICI Service](http://52.63.184.150)</br>
 ID : hello1234</br>
 PW : a123456~
 </br></br></br>
 # <img src="https://github.com/Jasonify97/AICI/assets/98500133/ea0eceae-c6e7-45ee-960e-b6b43b8e83c8"  width="30" height="30"/>Architecture
-## Presentation
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+### Presentation  
+<div class="badge-container">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></div>
+   
+### Application    
+<div class="badge-container">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=white"/></div>  
 
-## Application
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=Nginx&logoColor=green"/>  <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=Gunicorn&logoColor=green"/>
+### Database   
+<div class="badge-container">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></div></br></br></br>
 
-## Database
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
+# <img src="hhttps://www.flaticon.com/kr/free-icon/project-management_8236068"  width="30" height="30"/>프로젝트 상세내용
 
 
 
