@@ -47,9 +47,7 @@ PW : a123456~
 <div class="badge-container">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></div></br></br></br>
 
-# <img src="hhttps://www.flaticon.com/kr/free-icon/project-management_8236068"  width="30" height="30"/>프로젝트 상세내용
-
-
+# <img src="https://github.com/Jasonify97/AICI/assets/98500133/bcd48281-26a3-448b-b6d7-01867f36b64a"  width="30" height="30"/>프로젝트 상세내용
 
 
 
