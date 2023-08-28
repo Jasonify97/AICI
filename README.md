@@ -55,10 +55,16 @@ PW : a123456~
 |[@Jasonify97](https://github.com/Jasonify97)|[@jhsy0429](https://github.com/jhsy0429)|
 
 ### Back-End
-
+|고준석|박시온|
+|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/u/57626712?v=4"  width="170" height="200"/>|<img src="https://avatars.githubusercontent.com/u/35020426?v=4"  width="170" height="200"/>|
+|[@junseok123](https://github.com/junseok123)|[@Garalulu](https://github.com/Garalulu)|
 
 ### AI
-
+|강다솔|박수연|이지수|
+|:---:|:---:|:---:|
+|<img src="https://avatars.githubusercontent.com/u/106011096?v=4"  width="170" height="200"/>|<img src="https://avatars.githubusercontent.com/u/124108645?v=4"  width="170" height="200"/>|<img src="https://avatars.githubusercontent.com/u/120074030?v=4"  width="170" height="200"/>|
+|[@Dasolss](https://github.com/Dasolss)|[@zmfla1](https://github.com/zmfla1)|[@jisoo29](https://github.com/jisoo29)|
 
 
 
