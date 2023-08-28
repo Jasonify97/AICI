@@ -54,8 +54,6 @@ PW : a123456~
 |[![ruby](https://avatars.githubusercontent.com/u/98500133?v=4)](https://github.com/Jasonify97)|[![jhsy](https://avatars.githubusercontent.com/u/62207913?v=4)](https://github.com/jhsy0429)|
 |[@Jasonify97](https://github.com/Jasonify97)|[@jhsy0429](https://github.com/jhsy0429)|
 
-https://avatars.githubusercontent.com/u/62207913?v=4
-https://github.com/jhsy0429
 ### Back-End
 
 
