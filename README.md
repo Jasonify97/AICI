@@ -53,7 +53,7 @@ PW : a123456~
 |:---:|:---:|
 |<a scr="https://github.com/Jasonify97"><img src="https://avatars.githubusercontent.com/u/98500133?v=4"  width="200" height="300"/></a>|오른쪽정렬|
 |[@Jasonify97](https://github.com/Jasonify97)||
-
+[!(https://avatars.githubusercontent.com/u/98500133?v=4)](https://github.com/Jasonify97)
 
 ### Back-End
 
