@@ -50,10 +50,10 @@ PW : a123456~
 # <a src="https://avatars.githubusercontent.com/u/98500133?v=4"><img src="https://github.com/Jasonify97/AICI/assets/98500133/88037072-2eee-4fcc-8824-ca2c299d7baf"  width="30" height="30"/></a>팀원소개
 ### Front-End
 <center>
-|이준용|한세린|
-|:---:|:---:|
-|<img src="https://avatars.githubusercontent.com/u/98500133?v=4"  width="100" height="300"/>|<img src="https://avatars.githubusercontent.com/u/62207913?v=4"  width="100" height="300"/>|
-|[@Jasonify97](https://github.com/Jasonify97)|[@jhsy0429](https://github.com/jhsy0429)|
+   |이준용|한세린|
+   |:---:|:---:|
+   |<img src="https://avatars.githubusercontent.com/u/98500133?v=4"  width="100" height="300"/>|<img src="https://avatars.githubusercontent.com/u/62207913?v=4"  width="100" height="300"/>|
+   |[@Jasonify97](https://github.com/Jasonify97)|[@jhsy0429](https://github.com/jhsy0429)|
 </center>
 ### Back-End
 
