@@ -69,14 +69,25 @@ PW : a123456~
 
 
 # <img src="https://github.com/Jasonify97/AICI/assets/98500133/bcd48281-26a3-448b-b6d7-01867f36b64a"  width="30" height="30"/>프로젝트 상세내용
-<img width="949" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/eb9b15a1-e7eb-46bc-b186-797526364896">
 
 ## 과제 배경
-
 ### 요구 사항
 
-ㄴㅁㅇ
 
+### 과제 해석
+
+## 서비스 소개
+### 서비스 소개
+### 서비스 플로우
+### 아키텍처
+
+## AI 구현 내역
+### 고객 TM
+### 사외 공사
+
+## 기대 효과
+
+### 보록
 
 
 
