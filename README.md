@@ -279,3 +279,7 @@ PW : a123456~
 - board
 - construction
 - voc
+
+## Award
+![최우수상](https://github.com/Jasonify97/AICI/assets/98500133/3996de9a-e7d5-4412-ab1e-fd6e8d2ab89c)
+
