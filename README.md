@@ -153,7 +153,7 @@ PW : a123456~
 
 |<img width="1100" src="https://github.com/Jasonify97/AICI/assets/98500133/c66d976b-de0d-48ce-b61f-b2c3080682f5">|<img width="1000" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/9bad4f74-82cd-40e0-9276-66917f50252d">|
 |:---|:---|
-|•사외 공사 신고 서비스의 경우 신고된 사외공사에서 "날짜", "담당자", "번호", "위치", "공사종류"를 확인하고 공사위치를 알 수 있는 지도를 함께 제공|•음성파일, 담당자 이름, 번호 업로드 시 새로운 사외공사가 추가됨</br>•AI모델을 이용하여 "날짜", "위치", "공사종류"컬럼을 판단|
+|c사외 공사 신고 서비스의 경우 신고된 사외공사에서 "날짜", "담당자", "번호", "위치", "공사종류"를 확인하고 공사위치를 알 수 있는 지도를 함께 제공|•음성파일, 담당자 이름, 번호 업로드 시 새로운 사외공사가 추가됨</br>•AI모델을 이용하여 "날짜", "위치", "공사종류"컬럼을 판단|
 
 </br></br>
 
@@ -194,20 +194,41 @@ PW : a123456~
 </br></br>
 
 #### 공지사항 페이지
-|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/0c6dc70f-601b-4f86-a573-3780711f29f4">
-|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/d3c11495-0144-4596-9204-c768db207bb0">|
+
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/0c6dc70f-601b-4f86-a573-3780711f29f4">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/d3c11495-0144-4596-9204-c768db207bb0">|
 |:---:|:---:|
-|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/d98c1442-208b-4bb0-be4a-8969c2cc95a2">
-|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/338d4359-2c6b-4d83-863b-0b841be71953">|
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/d98c1442-208b-4bb0-be4a-8969c2cc95a2">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/338d4359-2c6b-4d83-863b-0b841be71953">|
 
+</br></br>
 
+|어드민 페이지|로그인 세션 관리|
+|:---|:---|
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/cdee056d-6bb8-418c-8eb5-a2ffa0cd9059">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/24a1a21d-3fd9-4e11-bd18-007a08fa0b30">|
+|•회원 삭제 및 관리자 권한 부여 구현|•1시간 동안 로그인 유지 구현</br>•DB에서 expire_date로 세션 기한 확인|
 
+</br></br>
 
-## 기대 효과
+|데코레이터로 로그인 여부 확인|서버에 업로드된 데이터를 날짜별로 저장|
+|:---|:---|
+|<img width="1500" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/54c94d3d-bd5e-431b-aebb-62a89820a98f">|<img width="300" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/a8bc1b6a-edf1-492a-bd2b-d6184757a19b">|
+|•로그인 상태가 아닌 경우 로그인 화면으로 리다이렉트|•한 폴더 안에 많은 파일이 들어갈 시 시간지연 가능성이 있으며, 관리하기 복잡해져 때문에 날짜별로 데이터 관리|
 
-### 보록
+</br></br>
 
+|EDR Diagram|
+|:---:|
+|<img width="900" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/029048d8-3a23-41a1-a701-a25b5bb053ee">|
 
+</br></br>
+
+### 기대 효과
+<p align="center"><img width="889" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/e34c9125-c0b2-4814-971b-e2666d687f1e"></p>
+
+</br></br>
+
+***
+
+</br>
 
 ## Version
 - python==3.10.11
