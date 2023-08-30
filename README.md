@@ -1,5 +1,4 @@
 # <img src="https://t4.ftcdn.net/jpg/05/34/18/69/240_F_534186910_T3ieVilB86S6uNqbXnT6LEvepbpBvF7z.jpg"  width="30" height="30"/> AICI
-<p align="center"><img src="https://github.com/Jasonify97/AICI/assets/98500133/533b82c6-a3b8-4ef3-9e5c-85f57c32b4df"  width="600" height="400"/></p>
 
 # <img src="https://github.com/Jasonify97/AICI/assets/98500133/604d456c-cd5d-46df-850b-884e713fe51c"  width="30" height="30"/>프로젝트 소개
 👉[AICI 발표PPT.pdf](https://github.com/Jasonify97/AICI/files/12460207/36.3.36.pdf)
@@ -113,47 +112,54 @@ PW : a123456~
 
 * 따로 들어오는 공사 신고 내용들을 수합하여 공유 했던 것들을 시스템을 통하여 수합하고 공유하고자 함
 
-</br>
-
-***
-
-</br>
-
-## UI/UX 디자인 - Figma
-|<img width="650" alt="figma" src="https://github.com/Jasonify97/AICI/assets/98500133/128d3371-5a45-49cb-b241-81d7e82e3d07">|<img width="650" alt="figma2" src="https://github.com/Jasonify97/AICI/assets/98500133/6495a443-aa2f-49e6-bcb0-f1f631906a66">|
-|:---:|:---:|
-
-## 서비스 소개 
-### 고객TM 확인 서비스
-<p align="center"><img width="650" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/aaa0f2a1-2c14-4555-bc67-c7b98712246d"></p>
-* 접수된 VOC 내용과 고객TM을 마친 후 수합한 응답결과를 한 화면에 배치하여 한눈에 파악할 수 있도록 제공
-</br></br>
-
-### 사외 공사 신고 서비스 
-<p align="center"><img width="650" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/f1d6ae6c-2004-4dfe-a180-eb982fb5cab6"></p>
-* 사외공사 신고 서비스의 경우 신고된 사외공사에서 날짜 담당자 번호 위치 종류를 확인하고 공사위치를 알 수 있는 지도를 함께 제공
 </br></br>
 
 ## 서비스 플로우
 <p align="center"><img width="650" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/a20658ba-6f6a-4998-81a6-687d92b58969"></p>
 </br>
 
+
+## UI/UX 디자인 - Figma
+|<img width="650" alt="figma" src="https://github.com/Jasonify97/AICI/assets/98500133/128d3371-5a45-49cb-b241-81d7e82e3d07">|<img width="650" alt="figma2" src="https://github.com/Jasonify97/AICI/assets/98500133/6495a443-aa2f-49e6-bcb0-f1f631906a66">|
+|:---:|:---:|
+
+</br>
+
 ## 기능 설명 및 AI 구현 내역
 
 ### 고객TM 확인 서비스
+|<img width="800" src="https://github.com/Jasonify97/AICI/assets/98500133/2ee17021-2583-4c3f-8a72-a551a61819e4">|<img width="800" src="https://github.com/Jasonify97/AICI/assets/98500133/09d450a9-e67c-484d-b7e5-f234a6a7dbbb">|
+|:---|:---|
+|•고객센터에서 넘어온 VOC 엑섹파일을 DB에 업로드</br>•"접수 시간","고객","신고자 의견","전화번호","주소" 컬럼만 파싱하여 DB에 저장</br>•접수된 VOC 내용과 고객TM을 마친 후 수합한 응답 결과를 한 화면에 배치하여 한눈에 파악할 수 있도록 제공|•고객의 음성파일과 고객명 입력 후 업로드</br>•AI모델을 활용하여 "중요도","TM상황","응답","응답결과","판단근거" 컬럼 판단|
 
-<p align="center"><img src="https://github.com/Jasonify97/AICI/assets/98500133/cc210151-2ce1-426d-a2bc-bedc063b912f"></p>
-<p align="center"><img src="https://github.com/Jasonify97/AICI/assets/98500133/761cbf4c-1c38-46b8-979f-86214edca2d1"></p>
+</br></br>
 
+|<img width="800" src="https://github.com/Jasonify97/AICI/assets/98500133/0502054e-521f-45a3-829b-9ab44e25e7d4">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/5b5b3bb5-8201-4477-b993-c4c86039e6ce">|
+|:---|:---|
+|•음성파일 업로드 시 "TM상황", "응답"은 완료된 것으로 간주함</br>•"판단근거" 컬럼은 STT변환 후 텍스트 요약 모델을 거쳐 완성됨</br>•"응답결과"컬럼은 "판단근거"의 텍스트를 긍/부정 판단하여 양호/불량으로 나타냄</br>|•텍스트 요약 모델을 활용하여 "판단근거" 컬럼 판단|
 
+</br></br>
 
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/5562ae46-8009-477b-9b8f-857c744f3f92">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/155ec28b-7f45-4260-bdb2-0453ceac8123">|
+|:---|:---|
+|•Google Bert 모델을 활용하여 긍/부정 판단|•"중요도"컬럼의 경우 임의로 선정한 6개의 단어가 포함되어 있을 시 긴급으로, 포함이 안된다면 일반으로 나타냄|
 
-
-
-
-
+</br></br></br></br></br></br></br></br>
 
 ### 사외 공사 신고 서비스
+
+</br>
+<p align="center"><img src="https://github.com/Jasonify97/AICI/assets/98500133/10332e60-597a-4ff6-85b1-f4d79d291016"></p>
+|<img width="800" src="https://github.com/Jasonify97/AICI/assets/98500133/c66d976b-de0d-48ce-b61f-b2c3080682f5">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/9bad4f74-82cd-40e0-9276-66917f50252d">|
+|:---|:---|
+|•사외 공사 신고 서비스의 경우 신고된 사외공사에서 "날짜", "담당자", "번호", "위치", "공사종류"를 확인하고 공사위치를 알 수 있는 지도를 함께 제공</br>•|
+
+
+
+
+
+
+
 
 
 ### 기타
