@@ -144,25 +144,62 @@ PW : a123456~
 |:---|:---|
 |•Google Bert 모델을 활용하여 긍/부정 판단|•"중요도"컬럼의 경우 임의로 선정한 6개의 단어가 포함되어 있을 시 긴급으로, 포함이 안된다면 일반으로 나타냄|
 
-</br></br></br></br></br></br></br></br>
+</br></br>
 
 ### 사외 공사 신고 서비스
 
 </br>
-<p align="center"><img src="https://github.com/Jasonify97/AICI/assets/98500133/10332e60-597a-4ff6-85b1-f4d79d291016"></p>
-|<img width="800" src="https://github.com/Jasonify97/AICI/assets/98500133/c66d976b-de0d-48ce-b61f-b2c3080682f5">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/9bad4f74-82cd-40e0-9276-66917f50252d">|
+
+
+|<img width="1100" src="https://github.com/Jasonify97/AICI/assets/98500133/c66d976b-de0d-48ce-b61f-b2c3080682f5">|<img width="1000" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/9bad4f74-82cd-40e0-9276-66917f50252d">|
 |:---|:---|
-|•사외 공사 신고 서비스의 경우 신고된 사외공사에서 "날짜", "담당자", "번호", "위치", "공사종류"를 확인하고 공사위치를 알 수 있는 지도를 함께 제공</br>•|
+|•사외 공사 신고 서비스의 경우 신고된 사외공사에서 "날짜", "담당자", "번호", "위치", "공사종류"를 확인하고 공사위치를 알 수 있는 지도를 함께 제공|•음성파일, 담당자 이름, 번호 업로드 시 새로운 사외공사가 추가됨</br>•AI모델을 이용하여 "날짜", "위치", "공사종류"컬럼을 판단|
 
+</br></br>
 
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/9e4fcbcd-23ea-4229-88ad-f6d85020c4d3">|<img src="https://github.com/Jasonify97/AICI/assets/98500133/10332e60-597a-4ff6-85b1-f4d79d291016">|
+|:---|:---|
+|•KT genie memo를 이용하여 STT변환</br>•Pre-trained model를 이용하여 날짜 텍스트를 숫자로 변환<br>•KoNLPy를 이용하여 날짜 형식 재배열 및 필요단어 추출|•Kakao Map API를 이용하여 주소 클릭시 위치 정보를 볼 수 있도록 함|
 
+</br></br>
 
+### 기타  
+#### 로그인 페이지
+<p align="center"><img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/e0cd5223-2665-447e-bf08-55b282a4c045"></p>
 
+* 엔지니어를 위한 웹서비스이기 때문에 초기 접속시 로그인 페이지로 이동하게함
+* Footer에 개인정보 처리방침, 이용 약관, About us, Github 추가
 
+</br></br>
 
+#### 회원가입 페이지
 
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/9695b03b-78a6-462d-af06-0927396b51aa">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/437f47a3-6e1b-4545-b826-930a96a70576">|
+|:---:|:---:|
 
-### 기타
+* 회원가입 시 이용약관 및 개인정보 처리방침 체크시 다음 버튼 활성화
+* 회원가입 시 유효성 검사를 하여, DB에 미리 등록된 사원번호로만 회원 가입 가능
+
+</br></br>
+
+#### 메인 페이지
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/57e617ab-14df-42f3-baf6-0d38730a1d82">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/847e543e-27d7-42ae-bacb-222c8d85a769">|
+|:---:|:---:|
+
+* 좌측 사이드 바에 각 콘텐트 이동버튼 구현
+* 우측 상단 로그아웃 버튼 구현
+* 각 콘텐츠에 바로가기 이동 버튼 구현
+* 각 콘텐츠에 내용 삽입시 메인페이지에 최근 순으로 나열
+
+</br></br>
+
+#### 공지사항 페이지
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/0c6dc70f-601b-4f86-a573-3780711f29f4">
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/d3c11495-0144-4596-9204-c768db207bb0">|
+|:---:|:---:|
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/d98c1442-208b-4bb0-be4a-8969c2cc95a2">
+|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/338d4359-2c6b-4d83-863b-0b841be71953">|
+
 
 
 
