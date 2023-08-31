@@ -230,13 +230,13 @@ PW : a123456~
 
 </br>
 
-## Version
+## 😀Version
 - python==3.10.11
 - Django==4.2.2
 - gunicorn==20.1.0
 - ``pip install -r requirements.txt``
 
-## Directory
+## 📂Directory
 ```
 ├── AICI_WEB                    # configuration
 ├── board                       # main page
@@ -280,6 +280,6 @@ PW : a123456~
 - construction
 - voc
 
-## Award
+## 🏆Award
 ![최우수상](https://github.com/Jasonify97/AICI/assets/98500133/3996de9a-e7d5-4412-ab1e-fd6e8d2ab89c)
 
