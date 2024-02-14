@@ -25,8 +25,7 @@ AICI 시스템으로 장애 영향 고객에게 동시다발 고객 TM을 시행
 * 개인정보처리방침/이용약관 페이지</br></br></br>
 
 # <img src="https://github.com/Jasonify97/AICI/assets/98500133/d385f4a0-736b-4a27-98fd-737adf470707"  width="30" height="30"/>시연영상
-[AICI Service](http://52.63.184.150)</br>
-👉[](https://youtu.be/C8kT7loAzm0)
+👉[AICI Service](https://youtu.be/C8kT7loAzm0)
 </br></br></br>
 
 # <img src="https://github.com/Jasonify97/AICI/assets/98500133/ea0eceae-c6e7-45ee-960e-b6b43b8e83c8"  width="30" height="30"/>Architecture
