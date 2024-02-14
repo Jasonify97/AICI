@@ -147,9 +147,9 @@ AICI 시스템으로 장애 영향 고객에게 동시다발 고객 TM을 시행
 </br>
 
 
-|<img width="500" src="https://github.com/Jasonify97/AICI/assets/98500133/c66d976b-de0d-48ce-b61f-b2c3080682f5">|<img width="500" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/9bad4f74-82cd-40e0-9276-66917f50252d">|
+|<img width="400" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/c66d976b-de0d-48ce-b61f-b2c3080682f5">|<img width="800" alt="image" src="https://github.com/Jasonify97/AICI/assets/98500133/9bad4f74-82cd-40e0-9276-66917f50252d">|
 |:---|:---|
-|사외 공사 신고 서비스의 경우 신고된 사외공사에서 "날짜", "담당자", "번호", "위치", "공사종류"를 확인하고 공사위치를 알 수 있는 지도를 함께 제공|•음성파일, 담당자 이름, 번호 업로드 시 새로운 사외공사가 추가됨</br>•AI모델을 이용하여 "날짜", "위치", "공사종류"컬럼을 판단|
+|사외 공사 신고 서비스의 경우 신고된 사외공사에서 "날짜", "담당자", </br>"번호", "위치", "공사종류"를 확인하고 공사위치를 알 수 있는 지도를 함께 제공|•음성파일, 담당자 이름, 번호 업로드 시 새로운 사외공사가 추가됨</br>•AI모델을 이용하여 "날짜", "위치", "공사종류"컬럼을 판단|
 
 </br></br>
 
