@@ -1,5 +1,3 @@
-# <img src="https://t4.ftcdn.net/jpg/05/34/18/69/240_F_534186910_T3ieVilB86S6uNqbXnT6LEvepbpBvF7z.jpg"  width="30" height="30"/> AICI
-
 # <img src="https://github.com/Jasonify97/AICI/assets/98500133/604d456c-cd5d-46df-850b-884e713fe51c"  width="30" height="30"/>프로젝트 소개
 👉[AICI 발표PPT.pdf](https://github.com/Jasonify97/AICI/files/12460207/36.3.36.pdf)
 
